@@ -1,0 +1,19 @@
+<body>
+  - <div id="app"></div>
+  + <div id="app">🏃‍🏃‍🏃‍💨加载中...</div>
+</body>
+
+<script>
+  window.$docsify = {
+    name: '定制机器人使用文档',
+    loadSidebar : true,
+    subMaxLevel : 4,
+    subMaxLevel: 2,
+    auto2top: true,
+    coverpage: true,
+  }
+
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
+  }
+</script>
