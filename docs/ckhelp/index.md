@@ -76,6 +76,8 @@ javascript:(function(){ prompt("",document.cookie);})();
 
 5.然后在点击刚才保存的标签。
 
+>下载在获取重这一步开始就可以了
+
 6.在弹出的窗口右键，点击复制。
 
 ![jsdC1s.png](https://s1.ax1x.com/2022/07/10/jsdC1s.png "右键点复制")
