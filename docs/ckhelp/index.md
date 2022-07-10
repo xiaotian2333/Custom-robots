@@ -58,7 +58,7 @@ javascript:(function(){ prompt("",document.cookie);})();
 
 
 ## 电脑
->此处使用`EDGE浏览器`进行演示，其他浏览器操作类似
+>此处使用**EDGE浏览器**进行演示，其他浏览器操作类似
 
 1. 打开浏览器，按`CTRL+SHIFT+N`打开InPrivate 浏览（无痕/隐身模式），然后打开网页版米游社 https://bbs.mihoyo.com/ys/ 。
 
