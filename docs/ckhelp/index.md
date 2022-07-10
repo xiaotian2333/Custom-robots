@@ -1,6 +1,7 @@
 # 米游社Cookie 配置帮助
 
 >**建议在`浏览器`中阅读本文章，否则代码`可能复制不全`导致错误**
+>**并且禁用浏览器的`翻译功能`，否则可能导致`排版错乱`**
 
 >私聊机器人前先加好友！
 
@@ -11,7 +12,6 @@
 
 如：查询体力，查询原石，原石统计，米游社自动签到
 
-欢迎加入交流群 [点击一键加群](https://jq.qq.com/?k=fjSGhscz "自动跳转到QQ")。
 
 ## 安卓
 1. 下载安装 [Via 浏览器](https://viayoo.com/zh-cn/)，应用商店搜索也有。
@@ -30,6 +30,8 @@
 javascript:(function(){ prompt("",document.cookie);})();
 ~~~
 
+>手机端可能显示不全，向右滑动屏幕即可
+
 ![复制代码](https://s1.ax1x.com/2022/07/10/jsaj78.png "复制代码")
 
 4. 然后就会弹出弹窗，长按红框里面内容，全选复制所有内容。
@@ -44,7 +46,8 @@ javascript:(function(){ prompt("",document.cookie);})();
 ## IOS
 >整个过程中提示的权限都要允许
 
-1. 打开链接 https://www.icloud.com/shortcuts/6b76ba13c7be40b69580169507f7034e 获取快捷指令，点"添加到快捷指令"。
+1. 打开链接 https://www.icloud.com/shortcuts/6b76ba13c7be40b69580169507f7034e
+获取快捷指令，点"添加到快捷指令"。
 
 ![获取快捷指令](https://s1.ax1x.com/2022/07/10/jsdiXq.png "获取快捷指令")
 
@@ -58,7 +61,7 @@ javascript:(function(){ prompt("",document.cookie);})();
 
 
 ## 电脑
->此处使用**EDGE浏览器**进行演示，其他浏览器操作类似
+>此处使用`EDGE浏览器`示例，其他浏览器操作类似
 
 1. 打开浏览器，按`CTRL+SHIFT+N`打开InPrivate 浏览（无痕/隐身模式），然后打开网页版米游社 https://bbs.mihoyo.com/ys/ 。
 
@@ -83,7 +86,7 @@ javascript:(function(){ prompt("",document.cookie);})();
 
 6.在弹出的窗口右键，点击复制。
 
-![jsdC1s.png](https://s1.ax1x.com/2022/07/10/jsdC1s.png "右键点复制")
+![右键点复制](https://s1.ax1x.com/2022/07/10/jsdC1s.png "右键点复制")
 
 7.发给机器人就可以啦~
 
