@@ -15,27 +15,27 @@
 
 >如果你是在QQ/微信内打开本网页，请在右上角点击在浏览器打开
 
-![VIA浏览器](/img/VIA浏览器.png "VIA浏览器图标")
+![VIA浏览器](https://s1.ax1x.com/2022/07/10/jsaX0f.png "VIA浏览器")
 
 2. 打开 Via 浏览器，打开网页版米游社 https://bbs.mihoyo.com/ys/ 。然后登录米游社。
 
-![登陆米游社](/img/登陆米游社.png "登陆米游社")
+![登陆米游社](https://s1.ax1x.com/2022/07/10/jsaztg.png "登陆米游社")
 
 3. 复制下面代码，点击浏览器最上面的地址栏，删掉网址，粘贴代码，点击右边箭头确认。
 
 ~~~ JavaScript
-    javascript:(function () { prompt("", document.cookie); })();
+javascript:(function(){ prompt("",document.cookie);})();
 ~~~
 
-![复制代码](/img/复制代码.png "复制代码")
+![复制代码](https://s1.ax1x.com/2022/07/10/jsaj78.png "复制代码")
 
 4. 然后就会弹出弹窗，长按红框里面内容，全选复制所有内容。
 
-![复制全部内容](/img/复制全部内容.png "复制全部内容")
+![复制全部内容](https://s1.ax1x.com/2022/07/10/jsd9pj.png "复制全部内容")
 
 5. 最后将复制内容私聊发送机器人，不能私聊可以加机器好友。
 
-![发给机器人](/img/发给机器人.jpg "发给机器人")
+![发给机器人](https://s1.ax1x.com/2022/07/10/jsdShQ.jpg "发给机器人")
 
 
 ## IOS
@@ -43,13 +43,13 @@
 
 1. 打开链接 https://www.icloud.com/shortcuts/6b76ba13c7be40b69580169507f7034e 获取快捷指令，点"添加到快捷指令"。
 
-![获取快捷指令](/img/获取快捷指令.png "获取快捷指令")
+![获取快捷指令](https://s1.ax1x.com/2022/07/10/jsdiXq.png "获取快捷指令")
 
 2. 在快捷指令APP中点击这个快捷指令，提示将打开米游社，选择“好”之后会拉起 Safari，在打开的页面中登录。（也可以手动打开 Safari，登录米游社后往下继续操作。）
 
 3. 登录好之后，点下面的“共享”按钮，拉到最下面，选“米游社Cookie获取”。
 
-![使用快捷指令](/img/使用快捷指令.png "使用快捷指令")
+![使用快捷指令](https://s1.ax1x.com/2022/07/10/jsdPcn.png "使用快捷指令")
 
 4. 然后会弹出是否复制到剪贴板，选择允许，就会自动复制到剪贴板了，私聊粘贴发送给机器人，不能私聊可以加机器好友。 
 
@@ -63,21 +63,22 @@
 
 3. 然后按`CTRL+D`,在弹出的窗口点击更多。
 
-![点击更多](/img/点击更多.png "点击更多")
+
+![点击更多](https://s1.ax1x.com/2022/07/10/jsaqXt.png "点击更多")
 
 4.在弹出的窗口粘贴以下代码
 
 ~~~ JavaScript
-    javascript:(function () { prompt("", document.cookie); })();
+javascript:(function(){ prompt("",document.cookie);})();
 ~~~
 
-![粘贴后点保存](/img/粘贴后点保存.png "粘贴后点保存")
+![粘贴后点保存](https://s1.ax1x.com/2022/07/10/jsdkn0.png "粘贴后点保存")
 
 5.然后在点击刚才保存的标签。
 
 6.在弹出的窗口右键，点击复制。
 
-![右键点复制](/img/右键点复制.png "右键点复制")
+![jsdC1s.png](https://s1.ax1x.com/2022/07/10/jsdC1s.png "右键点复制")
 
 7.发给机器人就可以啦~
 
