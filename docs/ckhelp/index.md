@@ -98,6 +98,8 @@ javascript:(function(){ prompt("",document.cookie);})();
 
 ● 多账号的可以用无痕模式获取
 
-by:大海
+● 如果用于获取ck的账号从来没有在米游社手机端登陆过，需要先[点击这里下载米游社](https://bbs.mihoyo.com/)登陆一次才能使用
 
-2022年7月10日
+by:[大海](https://s1.ax1x.com/2022/07/21/jLlU8s.png)
+
+2022年7月21日
