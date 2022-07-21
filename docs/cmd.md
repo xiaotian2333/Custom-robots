@@ -337,3 +337,34 @@ QQ 头像	|[av]qq[/av]|	通用变量|	通过 QQ 号 取 QQ 头像	|你的头像�
 本地音频	|[la]path[/la]	|通用变量|	发送本地音频，path 须为相对于自定义插件目录的相对路径|	参考 GET 请求|
 本地视频|	[lv]path[/lv]	|通用变量	|发送本地视频，path 须为相对于自定义插件目录的相对路径|	参考 GET 请求|
 闪照消息|	[fi]url[/fi]	|通用变量|	发送闪照消息，url 须为图片直链，可以嵌套上述请求变量	|参考 GET 请求|
+
+### site 对照表
+| site| Cookie 所属域名 |
+| ----  | ------------------ |
+|tenpay	|tenpay.com          |
+|docs	|docs.qq.com         |
+|office	|office.qq.com       |
+|connect|connect.qq.com      |
+|vip	|vip.qq.com          |
+|mail	|mail.qq.com         |
+|qzone	|qzone.qq.com        |
+|gc	    |gamecenter.qq.com   |
+|mma	|mma.qq.com          |
+|game	|game.qq.com         |
+|qqweb	|qqweb.qq.com        |
+|om	    |openmobile.qq.com   |
+|qun	|qun.qq.com          |
+|ti	    |ti.qq.com           |
+
+### 时间格式化变量对照表
+
+|   时间变量    |    说明    |
+| ------------ | ---------- |
+|YYYY/YY	|四/两位数年份|
+|MMM、MM/M	|英文月份、长/短月份|
+|DD/D	    |长/短日|
+|HH/H	    |24 小时制 长/短小时|
+|hh/h   	|12 小时制 长/短小时|
+|mm/m   	|长/短分钟|
+|ss/s   	|长/短秒数|
+|SSS/SS/S	|三/两/一位数毫秒|

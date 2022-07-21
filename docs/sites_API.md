@@ -136,6 +136,6 @@ Ten▪Api免费提供Api服务
 
 官方域名：http://api.btstu.cn/
 
-by：大海
+by:[大海](https://s1.ax1x.com/2022/07/21/jLlU8s.png)
 
 2022年7月20日
