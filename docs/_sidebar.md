@@ -9,3 +9,5 @@
 * [API站点](/sites_API.md)
 
 * [常用链接](/Commonly_used_links.md)
+
+* [赏杯咖啡](/support.md)
