@@ -100,6 +100,6 @@ javascript:(function(){ prompt("",document.cookie);})();
 
 ● 如果用于获取ck的账号从来没有在米游社手机端登陆过，需要先[点击这里下载米游社](https://bbs.mihoyo.com/)登陆一次才能使用
 
-by:[大海](https://s1.ax1x.com/2022/07/21/jLlU8s.png)
+by:[大海](https://p2.a.yximgs.com/upic/2022/07/24/10/BMjAyMjA3MjQxMDU1MzJfMjU4MjAyNjg0Ml83OTk4OTI2NzIwN18yXzY=_B9501e58cc092b85a2a4a577e6cb25787.jpg)
 
 2022年7月21日
