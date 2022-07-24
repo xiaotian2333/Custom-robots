@@ -11,4 +11,6 @@
 
 ![赞赏码](/resources/赞赏码.png "赞赏码")
 
+> 手机端如果看不清[点击这里下载原图](https://moecloud.cn/api/v3/source/x6KOrwW0m746WsKtyjG59oa3FRuAScz6eGiIBTaJX2s=:0/741532/%E6%94%B6%E6%AC%BE%E7%A0%81%E5%8E%9F%E5%9B%BE.png)。需要在**浏览器打开**，QQ拦截了该域名
+
 > 手机端如果看不清[点击这里查看原图](https://raw.githubusercontent.com/xiaotian2333/Custom-robots/main/docs/resources/%E6%94%B6%E6%AC%BE%E7%A0%81%E5%8E%9F%E5%9B%BE.png)。需要在**浏览器打开**，QQ拦截了该域名
