@@ -38,3 +38,7 @@
 - 微群管默认内置广告词过滤词库，可自行配置
 - 包会教学指一个问题教到懂为止，实在教不懂退一半款或者直接帮弄好
 - 高级版每个月一次免费包会，每个月1日重置，不累计
+
+by:[大海](https://p2.a.yximgs.com/upic/2022/07/24/10/BMjAyMjA3MjQxMDU1MzJfMjU4MjAyNjg0Ml83OTk4OTI2NzIwN18yXzY=_B9501e58cc092b85a2a4a577e6cb25787.jpg)
+
+2022年7月23日
